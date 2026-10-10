@@ -1,0 +1,6 @@
+{
+    "device": "cpu",
+    "dtype": "torch.float64",
+    "float_precision": 7,
+    "data_figure_dir": "data_figure/"
+}
